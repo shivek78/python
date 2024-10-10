@@ -4,13 +4,13 @@
 
 ## Week 1: Introduction to Python Basics
 
-Week 1: Python Basics
-Introduction to Python
-Python Setup & Environment
-First Python Program: "Hello, World"
+Week 1: Python Basics    (done)
+Introduction to Python    (done)
+Python Setup & Environment (done)
+First Python Program: "Hello, World"(done)
 Variables and Data Types
-Input and Output Functions
-Basic Operators
+Input and Output Functions (done)
+Basic Operators 
 Conditional Statements
 
 ---
