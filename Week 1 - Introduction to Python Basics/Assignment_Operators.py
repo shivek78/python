@@ -46,4 +46,30 @@ print("""
  1.Counter Incrementer: Create a program that increments a counter variable each time a user enters a valid   input.                                                
 --------------------------------------------------------------------------------------------------------------------------------------
 """)
-cont=input("enter the ")
+# Initialize the counter
+counter = 0
+
+# Start a loop to get user input
+while True:
+    user_input = input("Enter a valid input (or type '1' to quit): ")
+
+    # Check if the user wants to exit
+    if user_input == '1':
+        break
+
+    # Assuming any non-empty input is valid
+    if user_input:  # This checks if the input is not empty
+        counter += 1  # Increment the counter
+        print(f"Valid input received! Current counter: {counter}")
+    else:
+        print("Invalid input. Please try again.")
+
+print(f"Final counter value: {counter}")
+
+
+print("""
+--------------------------------------------------------------------------------------------------------------------------------------
+2.Bank Balance Tracker: Simulate a simple bank account where users can deposit or withdraw money, updating the balance using assignment operators.
+                                                 
+--------------------------------------------------------------------------------------------------------------------------------------
+""")
