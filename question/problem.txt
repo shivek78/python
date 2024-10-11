@@ -1,0 +1,47 @@
+ 
+problem list
+--------------------------------------------------------------------------------------------------------------------------------------
+                                               Comparison operators
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Equal Check: Write a program that checks if two numbers provided by the user are equal.
+
+Greater Than or Less Than: Create a program that takes two numbers and determines which one is greater or if they are equal.
+
+Age Comparison: Ask the user for their age and compare it with a specific age (e.g., 18) to check if they are an adult or not.
+
+Password Match: Write a program that asks the user to enter a password twice and checks if both entries match.
+
+Temperature Comparison: Create a program that takes two temperature readings and compares them to determine which one is higher or if they are equal.
+
+Grade Evaluation: Write a program that asks the user for their score and compares it with predefined grade thresholds (e.g., A, B, C) to determine the grade.
+
+Discount Eligibility: Create a program that checks if a user’s total purchase amount qualifies for a discount based on a specific threshold (e.g., $100).
+
+Voting Eligibility: Ask the user for their age and check if they are eligible to vote based on a minimum age requirement (e.g., 18).
+
+Number Range Check: Write a program that checks if a user-provided number is within a specific range (e.g., 1 to 100).
+
+String Comparison: Create a program that compares two strings entered by the user and checks if they are identical, or if one is lexicographically greater than the other.
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                     Assignment operators
+--------------------------------------------------------------------------------------------------------------------------------------
+Counter Incrementer: Create a program that increments a counter variable each time a user enters a valid input.
+
+Bank Balance Tracker: Simulate a simple bank account where users can deposit or withdraw money, updating the balance using assignment operators.
+
+Score Accumulator: Build a program that tracks scores for a game, allowing users to add points for different actions and calculate the total score.
+
+Age Calculator: Write a program that calculates a person's age based on the current year and their birth year, using assignment operators to update the age.
+
+Temperature Log: Create a temperature logging program that allows users to input daily temperatures and calculates the total and average temperature over a week.
+
+Budget Planner: Develop a budget planning app where users can set a budget and track expenses, updating the remaining budget with each expense entry.
+
+Sales Tax Calculator: Write a program that calculates the sales tax on a purchase, updating the total cost with the tax using assignment operators.
+
+Mileage Tracker: Build a program that tracks the distance traveled and calculates the total mileage by adding new distances entered by the user.
+
+Discount Price Calculator: Create a program that applies a discount to an original price, updating the final price after applying the discount.
+
+Item Quantity Tracker: Develop a program that tracks the quantity of items in stock, allowing users to add or remove items and updating the total quantity accordingly.

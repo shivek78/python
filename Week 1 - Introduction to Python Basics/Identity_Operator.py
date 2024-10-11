@@ -1,0 +1,8 @@
+print("                                                                                                                                                    ")
+print("5. Identity Operators")
+print("   Definition: These operators compare the memory locations of two objects.")
+print("   Operator | Description                     | Example")
+print("   ---------|----------------------------------|----------")
+print("   is       | Returns True if both variables point to the same object | x is y")
+print("   is not   | Returns True if both variables do not point to the same object | x is not y\n")
+print("                                                                                                                                                    ")

@@ -1,4 +1,21 @@
-print("Arithmetic Operators")
+
+print("                                                                                                                                                    ")
+print("1. Arithmetic Operators")
+print("   Definition: These operators perform basic mathematical operations.")
+print("   Operator | Description                     | Example")
+print("   ---------|----------------------------------|----------")
+print("   +        | Addition                         | 5  + 3")
+print("   -        | Subtraction                      | 5  - 3")
+print("   *        | Multiplication                   | 5  * 3")
+print("   /        | Division                         | 5  / 3")
+print("   //       | Floor Division                   | 5 // 3")
+print("   %        | Modulus (Remainder)              | 5  % 3")
+print("   **       | Exponentiation                   | 5 ** 3")
+print("                                                                                                                                                    ")
+
+
+
+
 
 # Prompt user for the first number
 num = input("Enter the first number: ")

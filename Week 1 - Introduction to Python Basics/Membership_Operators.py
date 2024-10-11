@@ -1,0 +1,8 @@
+print("                                                                                                                                                    ")
+print("6. Membership Operators")
+print("   Definition: These operators test for membership in a sequence (like a list, tuple, or string).")
+print("   Operator | Description                     | Example")
+print("   ---------|----------------------------------|----------")
+print("   in       | Returns True if the value is found in the sequence | 3 in [1, 2, 3]")
+print("   not in   | Returns True if the value is not found in the sequence | 5 not in [1, 2, 3]")
+print("                                                                                                                                                    ")
