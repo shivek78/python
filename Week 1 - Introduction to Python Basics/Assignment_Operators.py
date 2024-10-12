@@ -69,7 +69,20 @@ print(f"Final counter value: {counter}")
 
 print("""
 --------------------------------------------------------------------------------------------------------------------------------------
-2.Bank Balance Tracker: Simulate a simple bank account where users can deposit or withdraw money, updating the balance using assignment operators.
+
+      2.Bank Balance Tracker: Simulate a simple bank account where users can deposit or withdraw money, updating the balance using assignment operators.
                                                  
 --------------------------------------------------------------------------------------------------------------------------------------
 """)
+
+
+
+
+print("""
+--------------------------------------------------------------------------------------------------------------------------------------
+
+   4.Age Calculator: Write a program that calculates a person's age based on the current year and their birth year, using assignment operators to update the age.
+                                                    
+--------------------------------------------------------------------------------------------------------------------------------------
+""")
+
